@@ -1,0 +1,464 @@
+[
+    {
+        "id": "3D5F3C32-078A-4B35-ABE2-E109BF2B8C97",
+        "title": "Trening med lirg",
+        "date": "2023-06-01T10:00:00Z",
+        "location": {
+            "name": "Gjellebekk",
+            "longitude": 0.0,
+            "latitude": 0.0,
+            "utm32": "32V 23456234 3452345"
+        },
+        "goal": {
+            "type": "Obedience",
+            "description": "Innkalling"
+        },
+        "variables": {
+            "distractions": [
+                {
+                    "value": "People"
+                },
+                {
+                    "value": "Dogs"
+                }
+            ],
+            "command": "Hit",
+            "reward": "Godbiter",
+            "environment": "I parken",
+            "other": ""
+        },
+        "nextSession": {
+            "type": "Obedience",
+            "description": "Innkalling - fokusere på: ..."
+        }
+    },
+    {
+        "id": "EBDC47FF-622C-4173-A52A-AB86CAF9EDD6",
+        "title": "Lagtrening",
+        "date": "2023-06-01T10:00:00Z",
+        "location": {
+            "name": "Dikemark",
+            "longitude": 0.0,
+            "latitude": 0.0,
+            "utm32": "32V 23456234 3452345"
+        },
+        "goal": {
+            "type": "Obedience",
+            "description": "Innkalling"
+        },
+        "variables": {
+            "distractions": [
+                {
+                    "value": "People"
+                },
+                {
+                    "value": "Dogs"
+                }
+            ],
+            "command": "Hit",
+            "reward": "Godbiter",
+            "environment": "I parken",
+            "other": ""
+        },
+        "nextSession": {
+            "type": "Obedience",
+            "description": "Innkalling - fokusere på: ..."
+        }
+    },
+    {
+        "id": "29113289-3835-47FB-AF26-F0FDA2581440",
+        "title": "Lagtrening",
+        "date": "2023-06-01T10:00:00Z",
+        "location": {
+            "name": "Jordbru",
+            "longitude": 0.0,
+            "latitude": 0.0,
+            "utm32": "32V 23456234 3452345"
+        },
+        "goal": {
+            "type": "Obedience",
+            "description": "Innkalling"
+        },
+        "variables": {
+            "distractions": [
+                {
+                    "value": "People"
+                },
+                {
+                    "value": "Dogs"
+                }
+            ],
+            "command": "Hit",
+            "reward": "Godbiter",
+            "environment": "I parken",
+            "other": ""
+        },
+        "nextSession": {
+            "type": "Obedience",
+            "description": "Innkalling - fokusere på: ..."
+        }
+    },
+    {
+        "id": "4DA874D1-2699-448F-BF64-927F721970DD",
+        "title": "Lagtrening",
+        "date": "2023-06-01T10:00:00Z",
+        "location": {
+            "name": "Transet",
+            "longitude": 0.0,
+            "latitude": 0.0,
+            "utm32": "32V 23456234 3452345"
+        },
+        "goal": {
+            "type": "Obedience",
+            "description": "Innkalling"
+        },
+        "variables": {
+            "distractions": [
+                {
+                    "value": "People"
+                },
+                {
+                    "value": "Dogs"
+                }
+            ],
+            "command": "Hit",
+            "reward": "Godbiter",
+            "environment": "I parken",
+            "other": ""
+        },
+        "nextSession": {
+            "type": "Obedience",
+            "description": "Innkalling - fokusere på: ..."
+        }
+    },
+    {
+        "id": "0F0CF22A-D640-48EF-BCA0-70B8DF8E5118",
+        "title": "Lagtrening",
+        "date": "2023-06-01T10:00:00Z",
+        "location": {
+            "name": "Yggeset",
+            "longitude": 0.0,
+            "latitude": 0.0,
+            "utm32": "32V 23456234 3452345"
+        },
+        "goal": {
+            "type": "Obedience",
+            "description": "Innkalling"
+        },
+        "variables": {
+            "distractions": [
+                {
+                    "value": "People"
+                },
+                {
+                    "value": "Dogs"
+                }
+            ],
+            "command": "Hit",
+            "reward": "Godbiter",
+            "environment": "I parken",
+            "other": ""
+        },
+        "nextSession": {
+            "type": "Obedience",
+            "description": "Innkalling - fokusere på: ..."
+        }
+    },
+    {
+        "id": "62A70C01-62A4-433C-BC68-58E6191448CD",
+        "title": "Lagtrening",
+        "date": "2023-06-01T10:00:00Z",
+        "location": {
+            "name": "Yggeset",
+            "longitude": 0.0,
+            "latitude": 0.0,
+            "utm32": "32V 23456234 3452345"
+        },
+        "goal": {
+            "type": "Obedience",
+            "description": "Innkalling"
+        },
+        "variables": {
+            "distractions": [
+                {
+                    "value": "People"
+                },
+                {
+                    "value": "Dogs"
+                }
+            ],
+            "command": "Hit",
+            "reward": "Godbiter",
+            "environment": "I parken",
+            "other": ""
+        },
+        "nextSession": {
+            "type": "Obedience",
+            "description": "Innkalling - fokusere på: ..."
+        }
+    },
+    {
+        "id": "F7ABBB7E-07FB-4D68-A52D-05DF5C8A2A06",
+        "title": "Lagtrening",
+        "date": "2023-06-01T10:00:00Z",
+        "location": {
+            "name": "Gjellebekk",
+            "longitude": 0.0,
+            "latitude": 0.0,
+            "utm32": "32V 23456234 3452345"
+        },
+        "goal": {
+            "type": "Obedience",
+            "description": "Innkalling"
+        },
+        "variables": {
+            "distractions": [
+                {
+                    "value": "People"
+                },
+                {
+                    "value": "Dogs"
+                }
+            ],
+            "command": "Hit",
+            "reward": "Godbiter",
+            "environment": "I parken",
+            "other": ""
+        },
+        "nextSession": {
+            "type": "Obedience",
+            "description": "Innkalling - fokusere på: ..."
+        }
+    },
+    {
+        "id": "60748E72-3F1E-4177-9E71-8AF69CF9C117",
+        "title": "Lagtrening",
+        "date": "2023-06-01T10:00:00Z",
+        "location": {
+            "name": "Yggeset",
+            "longitude": 0.0,
+            "latitude": 0.0,
+            "utm32": "32V 23456234 3452345"
+        },
+        "goal": {
+            "type": "Obedience",
+            "description": "Innkalling"
+        },
+        "variables": {
+            "distractions": [
+                {
+                    "value": "People"
+                },
+                {
+                    "value": "Dogs"
+                }
+            ],
+            "command": "Hit",
+            "reward": "Godbiter",
+            "environment": "I parken",
+            "other": ""
+        },
+        "nextSession": {
+            "type": "Obedience",
+            "description": "Innkalling - fokusere på: ..."
+        }
+    },
+    {
+        "id": "27ADF519-ABDB-46AD-A216-5B643AA12858",
+        "title": "Lagtrening",
+        "date": "2023-06-01T10:00:00Z",
+        "location": {
+            "name": "Transet",
+            "longitude": 0.0,
+            "latitude": 0.0,
+            "utm32": "32V 23456234 3452345"
+        },
+        "goal": {
+            "type": "Obedience",
+            "description": "Innkalling"
+        },
+        "variables": {
+            "distractions": [
+                {
+                    "value": "People"
+                },
+                {
+                    "value": "Dogs"
+                }
+            ],
+            "command": "Hit",
+            "reward": "Godbiter",
+            "environment": "I parken",
+            "other": ""
+        },
+        "nextSession": {
+            "type": "Obedience",
+            "description": "Innkalling - fokusere på: ..."
+        }
+    },
+    {
+        "id": "CC2B7DCF-CD09-4C98-8159-A255C4C0A083",
+        "title": "Lagtrening",
+        "date": "2023-06-01T10:00:00Z",
+        "location": {
+            "name": "Konglungen",
+            "longitude": 0.0,
+            "latitude": 0.0,
+            "utm32": "32V 23456234 3452345"
+        },
+        "goal": {
+            "type": "Obedience",
+            "description": "Innkalling"
+        },
+        "variables": {
+            "distractions": [
+                {
+                    "value": "People"
+                },
+                {
+                    "value": "Dogs"
+                }
+            ],
+            "command": "Hit",
+            "reward": "Godbiter",
+            "environment": "I parken",
+            "other": ""
+        },
+        "nextSession": {
+            "type": "Obedience",
+            "description": "Innkalling - fokusere på: ..."
+        }
+    },
+    {
+        "id": "AE2B90D4-E639-4D7E-8E86-883C0FED6C1E",
+        "title": "Lagtrening",
+        "date": "2023-06-01T10:00:00Z",
+        "location": {
+            "name": "Yggeset",
+            "longitude": 0.0,
+            "latitude": 0.0,
+            "utm32": "32V 23456234 3452345"
+        },
+        "goal": {
+            "type": "Obedience",
+            "description": "Innkalling"
+        },
+        "variables": {
+            "distractions": [
+                {
+                    "value": "People"
+                },
+                {
+                    "value": "Dogs"
+                }
+            ],
+            "command": "Hit",
+            "reward": "Godbiter",
+            "environment": "I parken",
+            "other": ""
+        },
+        "nextSession": {
+            "type": "Obedience",
+            "description": "Innkalling - fokusere på: ..."
+        }
+    },
+    {
+        "id": "07EE15D4-106E-4CB3-B3B8-EE44CBC37738",
+        "title": "Lagtrening",
+        "date": "2023-06-01T10:00:00Z",
+        "location": {
+            "name": "Gjellebekk",
+            "longitude": 0.0,
+            "latitude": 0.0,
+            "utm32": "32V 23456234 3452345"
+        },
+        "goal": {
+            "type": "Obedience",
+            "description": "Innkalling"
+        },
+        "variables": {
+            "distractions": [
+                {
+                    "value": "People"
+                },
+                {
+                    "value": "Dogs"
+                }
+            ],
+            "command": "Hit",
+            "reward": "Godbiter",
+            "environment": "I parken",
+            "other": ""
+        },
+        "nextSession": {
+            "type": "Obedience",
+            "description": "Innkalling - fokusere på: ..."
+        }
+    },
+    {
+        "id": "A0D101D2-6628-4FF4-9908-1E5DB3A35763",
+        "title": "Lagtrening",
+        "date": "2023-06-01T10:00:00Z",
+        "location": {
+            "name": "Yggeset",
+            "longitude": 0.0,
+            "latitude": 0.0,
+            "utm32": "32V 23456234 3452345"
+        },
+        "goal": {
+            "type": "Obedience",
+            "description": "Innkalling"
+        },
+        "variables": {
+            "distractions": [
+                {
+                    "value": "People"
+                },
+                {
+                    "value": "Dogs"
+                }
+            ],
+            "command": "Hit",
+            "reward": "Godbiter",
+            "environment": "I parken",
+            "other": ""
+        },
+        "nextSession": {
+            "type": "Obedience",
+            "description": "Innkalling - fokusere på: ..."
+        }
+    },
+    {
+        "id": "55D6D943-208C-4340-9090-1A562C079811",
+        "title": "Lagtrening",
+        "date": "2023-06-01T10:00:00Z",
+        "location": {
+            "name": "Transet",
+            "longitude": 0.0,
+            "latitude": 0.0,
+            "utm32": "32V 23456234 3452345"
+        },
+        "goal": {
+            "type": "Obedience",
+            "description": "Innkalling"
+        },
+        "variables": {
+            "distractions": [
+                {
+                    "value": "People"
+                },
+                {
+                    "value": "Dogs"
+                }
+            ],
+            "command": "Hit",
+            "reward": "Godbiter",
+            "environment": "I parken",
+            "other": ""
+        },
+        "nextSession": {
+            "type": "Obedience",
+            "description": "Innkalling - fokusere på: ..."
+        }
+    }
+]
